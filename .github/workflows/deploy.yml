@@ -12,7 +12,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: cluster0.4qjlipp.mongodb.net
       MONGODB_USERNAME: michael
       MONGODB_PASSWORD: k3zh5a1F5nhtVf7O
-      PORT:8080
+      PORT: 8080
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
